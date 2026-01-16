@@ -38,7 +38,7 @@ using namespace std;
     }
 
 
-// Tabulization DP
+// Tabulation DP
 
   int maximumPoints(vector<vector<int>>& arr) {
         // Code here
